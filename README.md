@@ -11,7 +11,7 @@ Build | Code Quality | Unity | Git Inspector
 ------|----------|-------|--------------
 [![CI](https://github.com/sandhyarajahmundry/stepin_coinsmaster/actions/workflows/build.yml/badge.svg)](https://github.com/sandhyarajahmundry/stepin_coinsmaster/actions/workflows/build.yml)
 [![cppcheck-action](https://github.com/sandhyarajahmundry/stepin_coinsmaster/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sandhyarajahmundry/stepin_coinsmaster/actions/workflows/cppcheck.yml)
-
+[![Contribution Check - Git Inspector](https://github.com/lingamkalyani/stepin_Employee-Managment-System/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/lingamkalyani/stepin_Employee-Managment-System/actions/workflows/gitinspector.yml)
 
 ## Folder Structure
 Folder             | Description
