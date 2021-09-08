@@ -9,7 +9,8 @@
 
 Build | Code Quality | Unity | Git Inspector
 ------|----------|-------|--------------
-[![C/C++ CI - Build Status] (https://github.com/lingamkalyani/stepin_Employee-Managment-System/blob/main/.github/workflows/cbuild.yml) | [![cppcheck-action] (https://github.com/lingamkalyani/stepin_Employee-Managment-System/blob/main/.github/workflows/cppcheck.yml) | [![CodeQuality Dynamic Code Analysis Valgrind] (https://github.com/lingamkalyani/stepin_Employee-Managment-System/blob/main/.github/workflows/dynamic_check.yml) | [![CI-Coverage]( https://github.com/lingamkalyani/stepin_Employee-Managment-System/blob/main/.github/workflows/coverage.yml) | [![Unit Testing – Unity] (https://github.com/lingamkalyani/stepin_Employee-Managment-System/blob/main/.github/workflows/unity.yml)| [![Contribution Check - Git Inspector] (https://github.com/lingamkalyani/stepin_Employee-Managment-System/blob/main/.github/workflows/gitinspector.yml)
+[![CI](https://github.com/sandhyarajahmundry/stepin_coinsmaster/actions/workflows/build.yml/badge.svg)](https://github.com/sandhyarajahmundry/stepin_coinsmaster/actions/workflows/build.yml)
+[![cppcheck-action](https://github.com/sandhyarajahmundry/stepin_coinsmaster/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sandhyarajahmundry/stepin_coinsmaster/actions/workflows/cppcheck.yml)
 
 
 ## Folder Structure
